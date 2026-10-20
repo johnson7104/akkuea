@@ -1,0 +1,21 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "develop",
+    "fix/issue-1181-contracts-extend-ttls-for-pilot-contract",
+    "fix/issue-1206-contracts-game-engine-settle-rental-income",
+    "origin"
+  ],
+  "parent": {
+    "develop": null,
+    "fix/issue-1181-contracts-extend-ttls-for-pilot-contract": "develop",
+    "fix/issue-1206-contracts-game-engine-settle-rental-income": "develop",
+    "origin": "develop"
+  },
+  "order": [
+    "develop",
+    "fix/issue-1181-contracts-extend-ttls-for-pilot-contract",
+    "fix/issue-1206-contracts-game-engine-settle-rental-income",
+    "origin"
+  ]
+}
